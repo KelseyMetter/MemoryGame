@@ -5,51 +5,51 @@ document.addEventListener("DOMContentLoaded", () => {
     const cardArray = [
         {
             name: 'rainbow',
-            img: 'images/1.jpg'
+            img: 'images/11.jpg'
         },
         {
             name: 'rainbow',
-            img: 'images/1.jpg'
+            img: 'images/11.jpg'
         },
         {
             name: 'redRose',
-            img: 'images/2.jpg'
+            img: 'images/12.jpg'
         },
         {
             name: 'redRose',
-            img: 'images/2.jpg'
+            img: 'images/12.jpg'
         },
         {
             name: 'bouquet',
-            img: 'images/3.jpg'
+            img: 'images/13.jpg'
         },
         {
             name: 'bouquet',
-            img: 'images/3.jpg'
+            img: 'images/13.jpg'
         },
         {
             name: 'sunflowers',
-            img: 'images/4.jpg'
+            img: 'images/14.jpg'
         },
         {
             name: 'sunflowers',
-            img: 'images/4.jpg'
+            img: 'images/14.jpg'
         },
         {
             name: 'pink',
-            img: 'images/5.jpg'
+            img: 'images/15.jpg'
         },
         {
             name: 'pink',
-            img: 'images/5.jpg'
+            img: 'images/15.jpg'
         },
         {
             name: 'blue',
-            img: 'images/6.jpg'
+            img: 'images/16.jpg'
         },
         {
             name: 'blue',
-            img: 'images/6.jpg'
+            img: 'images/16.jpg'
         },
     ]
 
